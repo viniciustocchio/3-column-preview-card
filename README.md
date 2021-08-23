@@ -6,4 +6,4 @@ Another challange from Frontend Mentor, and the proposal is to compose a card wi
 
 In this exercise, I could practice a little bit more HTML, CSS, flexbox and it was good training to creating responsive layouts (desktop and mobile).
 
-<img alt="layout image" src="/design/layout.png">
+<a src="ttps://viniciustocchio.github.io/3-column-preview-card/"><img alt="layout image" src="/design/layout.png"></a>
